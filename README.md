@@ -1,7 +1,7 @@
 # Grandaj donajxoj (Velké dary)
 
 Milí přátelé,
-toto je webová stránka velkých darů :-)
+toto je webová stránka velkých darů.  
 Největším darem je samozřejmě Život sám.
 Za ten vděčíme tak trochu svým rodičům a dalším předkům.
 Ale jak se svým životem naložíme a jaký bude, to již záleží zcela na nás.
